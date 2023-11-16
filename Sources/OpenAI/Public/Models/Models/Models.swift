@@ -84,4 +84,9 @@ public extension Model {
     /// Most capable moderation model. Accuracy will be slightly higher than the stable model.
     static let textModerationLatest = "text-moderation-latest"
     static let moderation = "text-moderation-001"
+    
+    // Images
+    
+    static let dalle2 = "dall-e-2"
+    static let dalle3 = "dall-e-3"
 }
